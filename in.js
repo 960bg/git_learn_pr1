@@ -43,3 +43,7 @@ C21 dev_3:
   dev_3 dev_3 dev_3
   dev_3 dev_3 dev_3
 }
+
+ C22 main
+C22 main
+C22 main
