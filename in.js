@@ -82,5 +82,5 @@ C29 dev pc git add(-i)
 
 C29++ dev pc git add(-i)
 
-
+C30 dev pc[git stash]
 C31[git stash 2]
