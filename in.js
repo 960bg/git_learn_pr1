@@ -70,3 +70,17 @@ C27 team_branch git_learn_pr1_team
 
 
 С28 dev pc
+
+C29 dev pc git add(-i)
+
+
+
+
+
+
+
+
+C29++ dev pc git add(-i)
+
+
+C31[git stash 2]
